@@ -103,7 +103,8 @@ main .bg_titre, header nav .nav_link {
 }
 
 #main_index #section_CV header .bg_cv_frame .img_cv_frame img, #main_index #section_accueil article img {
-  border: #F8F1E5 0.5em solid;
+  background: linear-gradient(90deg, #212122, #212122) padding-box, linear-gradient(90deg, #69462b 0%, #b37f56 100%) border-box;
+  border: 5px solid transparent;
   border-radius: 25em;
 }
 

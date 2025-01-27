@@ -69,7 +69,9 @@
 }
 //border
 %img_bord_round{
-    border : $Bone .5em solid;
+    // border : $BronzeGradient .1em solid;
+    background: $DarkGreyBorderBronzeGradient;
+    border: 5px solid transparent;
     border-radius: 25em;
 }
 %border_round_0_2{
