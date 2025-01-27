@@ -12,6 +12,7 @@
 
 body {
     background-image: url("../assets/imgs/background/background_img_012.webp");
+    // background-color: black;
     @include bg_img_cov_fix;
     @include footer_bottom1;
 
